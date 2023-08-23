@@ -1,0 +1,2 @@
+# Wikikidata-tools
+Wikidataのダンプデータから必要なデータを抽出し利用するためのツールです．
